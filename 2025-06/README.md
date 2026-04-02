@@ -1,4 +1,4 @@
-# Compression Detection Plot Directory
+# Plots from June 2025 to April 2026
 
 This directory contains plot assets and scripts from June 2025 to April 2026 for two papers, "Detecting In-Path Network Compression
 in Uncooperative Environments" and "Fingerprinting and Biasing Bandwidth Measurements". The plots are organized based on paper-specific groups:
